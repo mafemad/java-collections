@@ -1,4 +1,4 @@
-package tarefa;
+package list.tarefa;
 
 public class main {
     public static void main(String[] args) {

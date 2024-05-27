@@ -1,4 +1,4 @@
-package tarefa;
+package list.tarefa;
 
 import java.util.ArrayList;
 import java.util.List;

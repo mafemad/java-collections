@@ -1,4 +1,4 @@
-package carrinho;
+package list.carrinho;
 
 public class main {
     public static void main(String[] args) {
